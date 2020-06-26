@@ -1,0 +1,1 @@
+https://github.com/cccbook/aijs/wiki
