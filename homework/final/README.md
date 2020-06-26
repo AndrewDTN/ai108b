@@ -7,8 +7,4 @@
 [習題：請寫出一個搜尋問題的程式碼](https://github.com/AndrewDTN/ai108b/tree/master/homework/mouse)
 [習題：請寫一個可以產生文章或語句的程式。](https://github.com/AndrewDTN/ai108b/tree/master/homework/sentence)
 [習題：科學計算練習](https://github.com/AndrewDTN/ai108b/tree/master/homework/W10)
-[這裡](https://github.com/wangproverb/ai108b/blob/master/hw3/pathFinder.py)
-
-
-
 ```
