@@ -12,7 +12,6 @@ def findpath(m,x,y):
     printmap(m)
     if x>=6 or y>=8 :return False
     if m[x][y] == '*' :return False
-    if m[x][y] == '+' :return False
     if m[x][y] == ' ' :m[x][y] = '.'
     if m[x][y] == '.' and x==5 or y==7 :return True
 

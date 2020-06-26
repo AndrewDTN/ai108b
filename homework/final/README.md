@@ -1,1 +1,5 @@
-https://github.com/cccbook/aijs/wiki
+## 註解
+```
+在這個pdf裡主要是寫了我在做作業時覺得相對重要的一些名詞
+作業的解釋都放在各自的README內
+```

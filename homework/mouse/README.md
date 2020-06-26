@@ -1,3 +1,9 @@
+```
+1.首先將地圖畫出來
+2.在將規則訂好
+3.讓它跑
+```
+>註:程式來自[這裡](https://github.com/wangproverb/ai108b/blob/master/hw3/pathFinder.py) 對於程式完全理解 改了地圖和搜尋路的優先順序
 ## RESULT
 
 ```
