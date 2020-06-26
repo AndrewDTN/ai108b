@@ -1,5 +1,5 @@
 ```
-參考老師的net2改寫而成的 對於程式完全理解
+參考老師的[net2](https://github.com/ccccourse/ai/blob/master/python/03-neuralnet/04-net/net1.py)改寫而成的 對於程式完全理解
 ```
 # RESULT
 
